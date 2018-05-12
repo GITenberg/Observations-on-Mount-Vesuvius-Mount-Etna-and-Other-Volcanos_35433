@@ -21,6 +21,8 @@ creator:
     gutenberg_agent_id: '37669'
     url: http://www.gutenberg.org/2009/agents/37669
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35433#Observations-on-Mount-Vesuvius-Mount-Etna-and-Other-Volcanos
 gutenberg_issued: '2011-03-01'
 gutenberg_type: Text
 identifiers:
