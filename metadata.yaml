@@ -1,0 +1,39 @@
+_repo: Observations-on-Mount-Vesuvius-Mount-Etna-and-Other-Volcanos_35433
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamilton, William, Sir
+    birthdate: 1730
+    deathdate: 1803
+    gutenberg_agent_id: '37668'
+    url: http://www.gutenberg.org/2009/agents/37668
+    wikipedia: http://en.wikipedia.org/wiki/William_Hamilton_%28diplomat%29
+  editor:
+    agent_name: Cadell, T. (Thomas)
+    aliases:
+    - Cadell, Thomas
+    - Cadel, T. (Thomas)
+    birthdate: 1742
+    deathdate: 1802
+    gutenberg_agent_id: '37669'
+    url: http://www.gutenberg.org/2009/agents/37669
+description: ''
+gutenberg_issued: '2011-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35433'
+  lccn: gs10000278
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Volcanoes -- Italy -- Early works to 1800'
+- !lcsh 'Vesuvius (Italy) -- Early works to 1800'
+- !lcc 'QE'
+- !lcsh 'Etna, Mount (Italy) -- Early works to 1800'
+title: Observations on Mount Vesuvius, Mount Etna, and Other Volcanos
+url: http://www.gutenberg.org/ebooks/35433
